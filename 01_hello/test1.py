@@ -4,7 +4,7 @@
 import os
 from subprocess import getstatusoutput, getoutput
 
-prg = './hello3.py'
+prg = './new_hello.py'
 
 
 # --------------------------------------------------
